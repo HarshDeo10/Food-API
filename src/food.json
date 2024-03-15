@@ -1,0 +1,47 @@
+{
+    "food_items": [
+      {
+        "food_item_name": "Quinoa Salad",
+        "food_group": "Grains",
+        "description": "A refreshing salad made with quinoa, vegetables, and herbs.",
+        "nutritional_information": {
+          "calories": 200,
+          "fat": 8,
+          "carbohydrates": 30,
+          "protein": 6,
+          "fiber": 5
+        },
+        "serving_size": "1 cup",
+        "allergens": ["None"],
+        "ingredients": ["Quinoa", "Tomatoes", "Cucumbers", "Bell Peppers", "Red Onion", "Lemon Juice", "Olive Oil", "Salt", "Pepper"],
+        "preparation_methods": ["Cook quinoa, chop vegetables, mix together, season with lemon juice, olive oil, salt, and pepper."],
+        "certifications": ["Non-GMO"],
+        "country_of_origin": "Peru",
+        "brand_or_manufacturer": "Healthy Harvest",
+        "dietary_restrictions": ["Gluten-Free", "Vegan"],
+        "health_benefits": ["High in protein", "Rich in fiber", "Packed with antioxidants"]
+      },
+      
+      {
+        "food_item_name": "Peanut Butter Banana Smoothie",
+        "food_group": "Nuts",
+        "description": "A creamy smoothie made with peanut butter, bananas, and almond milk.",
+        "nutritional_information": {
+          "calories": 280,
+          "fat": 15,
+          "carbohydrates": 30,
+          "protein": 10,
+          "fiber": 5
+        },
+        "serving_size": "1 cup",
+        "allergens": ["Tree Nuts (if using almond milk)", "Peanuts"],
+        "ingredients": ["Bananas", "Peanut Butter", "Almond Milk", "Honey", "Ice"],
+        "preparation_methods": ["Blend bananas, peanut butter, almond milk, honey, and ice until smooth."],
+        "certifications": ["Non-GMO", "Gluten-Free"],
+        "country_of_origin": "United States",
+        "brand_or_manufacturer": "Nutty Smoothies",
+        "dietary_restrictions": ["Vegetarian"],
+        "health_benefits": ["Rich in potassium", "Good source of protein"]
+      }
+    ]
+  }
